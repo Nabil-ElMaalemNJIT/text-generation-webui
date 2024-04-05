@@ -1,4 +1,14 @@
-# Text generation web UI
+# Text generation web UI (NR3 IS322 Midterm)
+
+Please note that "text-generation-webUI" is prebuilt from oobabooga and I do not claim any ownership or rights over it. This is simply an adjusted version that I worked on for IS322 Midterm. 
+
+All links to the models used in my Midterm can be found in /models. Please note that /models is in .gitignore file because of the size of the models as well as the fact that different models can be used with the UI so it is up to the individual. Currently in /models are the links to the models that I used for my in-class demo.
+
+Link to Midterm slides [https://docs.google.com/presentation/d/1tFOvgrE5-nQAtWrfqYtRWMmZFHtTnTy9RtKyBgh6Gf8/edit?usp=sharing]  
+
+
+
+## Below Begins the Original README file
 
 A Gradio web UI for Large Language Models.
 
