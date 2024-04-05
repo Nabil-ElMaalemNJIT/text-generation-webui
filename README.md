@@ -4,6 +4,8 @@ Please note that "text-generation-webUI" is prebuilt from oobabooga and I do not
 
 All links to the models used in my Midterm can be found in /models. Please note that /models is in .gitignore file because of the size of the models as well as the fact that different models can be used with the UI so it is up to the individual. Currently in /models are the links to the models that I used for my in-class demo.
 
+Please note that [hardware requirements](https://www.hardware-corner.net/llm-database/WizardCoder/) differ greatly between models so please use the provided selectors and sliders in the "Model" tab to potentially make the model run faster/better if needed.
+
 Link to Midterm slides [https://docs.google.com/presentation/d/1tFOvgrE5-nQAtWrfqYtRWMmZFHtTnTy9RtKyBgh6Gf8/edit?usp=sharing]  
 
 Additionally, please look at <b>docs/What Works.md</b> in order to see what works with this UI. 
