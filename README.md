@@ -6,6 +6,8 @@ All links to the models used in my Midterm can be found in /models. Please note 
 
 Link to Midterm slides [https://docs.google.com/presentation/d/1tFOvgrE5-nQAtWrfqYtRWMmZFHtTnTy9RtKyBgh6Gf8/edit?usp=sharing]  
 
+Additionally, please look at docs/What Works.md in order to see what works with this UI. 
+
 
 
 ## Below Begins the Original README file
