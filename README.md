@@ -11,6 +11,8 @@ Please note that [hardware requirements](https://www.hardware-corner.net/llm-dat
 
 Link to Final slides [https://docs.google.com/presentation/d/1tFOvgrE5-nQAtWrfqYtRWMmZFHtTnTy9RtKyBgh6Gf8/edit?usp=sharing]  
 
+Link to Video Demo [https://youtu.be/NX01Drfdn0o]
+
 Additionally, please look at <b>docs/What Works.md</b> in order to see what works with this UI. 
 
 
