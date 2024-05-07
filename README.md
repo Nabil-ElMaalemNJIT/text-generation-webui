@@ -1,4 +1,4 @@
-# Text generation web UI (NR3 IS322 Final Project)
+# Text generation web UI on External GPU/System (NR3 IS322 Final Project)
 
 Please note that "text-generation-webUI" is prebuilt from oobabooga and I do not claim any ownership or rights over it. This is simply an adjusted version that I worked on for IS322 Final. 
 
