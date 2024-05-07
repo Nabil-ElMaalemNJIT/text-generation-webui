@@ -1,12 +1,15 @@
-# Text generation web UI (NR3 IS322 Midterm)
+# Text generation web UI (NR3 IS322 Final Project)
 
-Please note that "text-generation-webUI" is prebuilt from oobabooga and I do not claim any ownership or rights over it. This is simply an adjusted version that I worked on for IS322 Midterm. 
+Please note that "text-generation-webUI" is prebuilt from oobabooga and I do not claim any ownership or rights over it. This is simply an adjusted version that I worked on for IS322 Final. 
 
-All links to the models used in my Midterm can be found in /models. Please note that /models is in .gitignore file because of the size of the models as well as the fact that different models can be used with the UI so it is up to the individual. Currently in /models are the links to the models that I used for my in-class demo.
+Please also note that the template used for my IS322 Final is a user modified version that fixes the bugs found within the "text-generation-webUI" template on Runpod.io. 
+The link to the user modified version is here: [https://runpod.io/console/gpu-cloud?template=00y0qvimn6&ref=2vdt3dn9]
+
+All links to the models used in my Final can be found in /models. Please note that /models is in .gitignore file because of the size of the models as well as the fact that different models can be used with the UI so it is up to the individual. Currently in /models are the links to the models that I used for my in-class demo.
 
 Please note that [hardware requirements](https://www.hardware-corner.net/llm-database/WizardCoder/) differ greatly between models so please use the provided selectors and sliders in the "Model" tab to potentially make the model run faster/better if needed.
 
-Link to Midterm slides [https://docs.google.com/presentation/d/1tFOvgrE5-nQAtWrfqYtRWMmZFHtTnTy9RtKyBgh6Gf8/edit?usp=sharing]  
+Link to Final slides [https://docs.google.com/presentation/d/1tFOvgrE5-nQAtWrfqYtRWMmZFHtTnTy9RtKyBgh6Gf8/edit?usp=sharing]  
 
 Additionally, please look at <b>docs/What Works.md</b> in order to see what works with this UI. 
 
